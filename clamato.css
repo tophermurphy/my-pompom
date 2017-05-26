@@ -1,0 +1,67 @@
+.page-wrap {
+    position: relative;
+}
+
+.output {
+font-size: 24px;
+    text-align: center;
+    padding: 40px;
+}
+
+.output-wrap {
+    position: relative;
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    border: solid 1px red;
+}
+
+.page-wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.input-wrap {
+    width: 300px;
+    margin: 0 auto 
+}
+       
+.input-wrap input {
+    
+    margin:0;
+    display: inline-block;
+}
+
+#starp {
+    width: 120px;
+    display: block;
+    margin: 0 auto;
+    font-size: 28px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#output-brk {
+}
+
+.output {
+    position: absolute;
+    top: 0;
+    left:0;
+    background-color: black;
+    color: white;
+}
+button { color: black;
+position: relative;
+    display: block;
+}
+
+.button-wrap {
+    position: relative;
+    border: solid 1px green;
+}
